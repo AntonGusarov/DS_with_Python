@@ -16,4 +16,5 @@ A collection of data science algorithms and practices
 
 ## Regression 
 
-* Simple polynomial regression + gradient descent convergence [link] (https://github.com/AntonGusarov/DS_with_Python/blob/master/Regression%2C%20gradient%20descent/Regression.ipynb)
+* Simple polynomial regression + gradient descent convergence [link](https://github.com/AntonGusarov/DS_with_Python/blob/master/Regression%2C%20gradient%20descent/Regression.ipynb)
+
