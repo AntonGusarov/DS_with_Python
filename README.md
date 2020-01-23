@@ -7,13 +7,13 @@ A collection of data science algorithms and practices
 ---
 ## Requirements
 * **Python 3.6+**
-* **NumPy (`pip install numpy`)**
-* **Scikit-learn (`pip install scikit-learn`)**
-* **SciPy (`pip install scipy`)**
-* **MatplotLib (`pip install matplotlib`)**
-* **Keras (`pip install keras`)**
+* **NumPy**
+* **Scikit-learn**
+* **SciPy**
+* **MatplotLib**
+* **Keras**
 ---
 
 ## Regression 
 
-* Simple polynomial regression + gradient descent convergence
+* Simple polynomial regression + gradient descent convergence [link] (https://github.com/AntonGusarov/DS_with_Python/blob/master/Regression%2C%20gradient%20descent/Regression.ipynb)
