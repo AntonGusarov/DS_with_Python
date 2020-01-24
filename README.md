@@ -12,6 +12,7 @@ A collection of data science algorithms and practices
 * **SciPy**
 * **MatplotLib**
 * **Keras**
+* **GPy**
 ---
 
 ## Regression 
