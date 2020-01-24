@@ -19,3 +19,5 @@ A collection of data science algorithms and practices
 
 * Simple polynomial regression + gradient descent convergence [link](https://github.com/AntonGusarov/DS_with_Python/blob/master/Regression%2C%20gradient%20descent/Regression.ipynb)
 
+* Gausssian processes non-linear regression [link](https://github.com/AntonGusarov/DS_with_Python/blob/master/Gaussian%20processes/GP_regression.ipynb)
+
